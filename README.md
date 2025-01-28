@@ -6,7 +6,6 @@
 ## 🚀 Tecnologias e Ferramentas<br>
 - **Linguagens:** JavaScript, HTML, CSS, Node.js.<br>
 - **Banco de Dados:** MongoDB.<br>
-
 ---
 
 ## 🌟 Sobre Mim<br>
